@@ -1,0 +1,22 @@
+# Deep Learning Framework
+torch
+torchvision
+
+# Model Architecture
+timm
+
+# Data Processing
+Pillow
+numpy
+
+# Utilities
+tqdm
+matplotlib
+japanize-matplotlib
+
+# Jupyter Environment
+jupyter
+notebook
+
+# Optional: CUDA support (uncomment if needed)
+# torch-cuda
